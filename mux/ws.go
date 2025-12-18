@@ -1,6 +1,5 @@
 package mux
 import(
-  "log"
   "net/http"
   "sync"
   "time"
