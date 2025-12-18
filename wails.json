@@ -1,0 +1,8 @@
+{
+  "name": "ws-mux-gui",
+  "outputfilename": "ws-mux-gui",
+  "windows": {
+    "version": "1.0.0",
+    "productName": "WS-MUX GUI"
+  }
+}
