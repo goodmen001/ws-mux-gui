@@ -12,6 +12,5 @@ func main() {
     Width: 420,
     Height: 300,
     Bind: []interface{}{app},
-    Tray: setupTray(app),
   })
 }
